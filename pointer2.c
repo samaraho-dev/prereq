@@ -1,5 +1,4 @@
 #include <stdio.h>
-//Import the required library
 
 int main() {
     //There are variables of 3 data types here 
